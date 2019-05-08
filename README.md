@@ -8,4 +8,4 @@ pdf file containing travel app screens(not in order)
 
  [Travel app Poster 1](https://ailsiseburns.github.io/travel_app_screens/one_two.jpg) Final App Poster
  
- [Travel app Poster 1](https://ailsiseburns.github.io/travel_app_screens/two.jpg) Final App Poster
+ [Travel app Poster 2](https://ailsiseburns.github.io/travel_app_screens/two.jpg) Final App Poster
